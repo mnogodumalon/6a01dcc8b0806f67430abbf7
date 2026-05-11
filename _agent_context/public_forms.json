@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "forms": [
+    {
+      "entity": "tedt_erfassung",
+      "app_id": "6a01dcbb56f74cf076ebf8a0",
+      "path": "/rest/apps/6a01dcbb56f74cf076ebf8a0/records",
+      "allowed_fields": [
+        "titel",
+        "beschreibung",
+        "datum",
+        "status",
+        "anmerkungen"
+      ],
+      "pow": true,
+      "pow_difficulty": 50000,
+      "title": "Tedt Erfassung — Formular"
+    }
+  ]
+}
